@@ -1,1 +1,5 @@
-croll down the page until you find the Commit area, and click “Commit new file”. Every time you create a new version of a file, you are making a “commit” to record that in the file version history. Each commit has a message to describe the change. Github suggests a default message (“Create index.html”, in this case), but you can override that by typing in the box
+<title>Project: Travel webpage</title>
+    <h1>Travel to Costa Rica</h1>
+
+   <p>...and you'll get to see these beauties!</D>
+   <mg src="https://www.kasandbox.org/programming-images/animals/crocodiles.png" alt="Scary crocodiles" width="200"/>
